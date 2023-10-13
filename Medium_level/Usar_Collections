@@ -1,0 +1,12 @@
+Sacar de las collections:
+ejemplo: from collections import Counter
+
+namedtuple()
+deque
+ChainMap
+Counter #usada en el ejercicio 23 para contar algo en una lista
+OrderedDict
+defaultdict
+UserDict
+UserList
+UserString
